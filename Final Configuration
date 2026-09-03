@@ -1,0 +1,12 @@
+Windows Server
+      │
+      ├── Active Directory
+      ├── DNS
+      ├── DHCP
+      ├── Group Policy
+      └── File Shares
+             │
+             ▼
+         Windows 11
+             │
+             └── Domain User
